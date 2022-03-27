@@ -1,10 +1,6 @@
 # Quasi_Liquid_Layer_Order_Parameters
 Investigating the Quasi-Liquid Layer on Ice Surfaces: a Comparison of Order Parameters
 
-###We compare the results obtained using different order parameters to characterize the QLLs on hexagonal ice
-and cubic ice model surfaces investigated with molecular dynamics simulations in a range of temperatures. 
-For the classification task, in addition to the traditional Steinhardt order parameters in different flavours, we select 
-an entropy fingerprint and a deep learning neural networks approach, which are conceptually different methodologies.###
+Ice surfaces are characterized by pre-melted quasi-liquid layers (QLLs) which mediate both crystal growth processes and interactions with external agents. Understanding QLLs at the molecular level is necessary to unravel the mechanisms of ice crystal formation. Computational studies of the QLLs heavily rely on the accuracy of the methods employed for identifying the local molecular environment and arrangements, discriminating solid-like and liquid-like water molecules. Here We compare the results obtained using different order parameters to characterize the QLLs on hexagonal ice and cubic ice model surfaces investigated with molecular dynamics simulations in a range of temperatures. For the classification task, in addition to the traditional Steinhardt order parameters in different flavours, we select an entropy fingerprint and a deep learning neural networks approach, which are conceptually different methodologies.
 
-The data file reported here for PLUMED running can be used to calculate different Steinhardt order parameters
-and entrpy fingerprint parameters.
+The PLUMED data file reported here can be used to calculate different Steinhardt order parameters and entrpy fingerprint parameters for bulk and surface Ice models.
